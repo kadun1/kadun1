@@ -14,9 +14,9 @@ I'm always learning...
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-Now I'm leanging..
+Now I'm leanging..  
 ![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![JPA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JPA](https://img.shields.io/badge/Hibernate-#59666C.svg?style=for-the-badge&logo=java&logoColor=white)
 
 <!--
 
