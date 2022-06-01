@@ -16,7 +16,7 @@ I'm always learning...
 
 Now I'm leanging..  
 ![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-<img src="https://img.shields.io/badge/JPA-#59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 
 
 <!--
