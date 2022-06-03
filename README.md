@@ -11,13 +11,13 @@ I'm always learning...
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 Now I'm leanging..  
 ![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
-<img src="https://img.shields.io/badge/travis-ci-3EAAAF?style=for-the-badge&logo=Travis-CI&logoColor=white">
+<img src="https://img.shields.io/badge/Travis-3EAAAF-CI-3EAAAF?style=for-the-badge&logo=Travis-CI&logoColor=white">
 
 
 
