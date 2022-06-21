@@ -5,7 +5,7 @@ I'm always learning...
 
 
 ![kadun1's github stats](https://github-readme-stats.vercel.app/api?username=kadun1&show_icons=true)
-[![kadun1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kadun1ID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kadun1)
+[![kadun1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kadun1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kadun1)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
